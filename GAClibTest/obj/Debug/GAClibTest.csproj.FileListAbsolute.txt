@@ -1,0 +1,6 @@
+D:\EPAM\GAClibTest\GAClibTest\bin\Debug\GAClibTest.dll
+D:\EPAM\GAClibTest\GAClibTest\bin\Debug\GAClibTest.pdb
+D:\EPAM\GAClibTest\GAClibTest\obj\Debug\GAClibTest.csprojResolveAssemblyReference.cache
+D:\EPAM\GAClibTest\GAClibTest\obj\Debug\GAClibTest.csproj.CoreCompileInputs.cache
+D:\EPAM\GAClibTest\GAClibTest\obj\Debug\GAClibTest.dll
+D:\EPAM\GAClibTest\GAClibTest\obj\Debug\GAClibTest.pdb
